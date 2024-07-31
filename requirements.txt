@@ -1,0 +1,11 @@
+requests
+pandas
+openai==0.28
+python-dotenv
+langchain
+google-cloud-aiplatform
+google-generativeai
+langchain-groq
+streamlit
+transformers
+torch
